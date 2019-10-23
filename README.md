@@ -1,3 +1,3 @@
 # hello-world
 a practice project
-hello world
+cout<<"hello world"<<endl;
